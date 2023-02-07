@@ -1,4 +1,19 @@
+html{
+   scroll-behavior: smooth;
+}
 body{
    text-align: center;
    background-color: antiquewhite;
    font-style: oblique;
+}
+a:hover{
+   text-decoration: none;
+   color:#000 ;
+
+}
+a:visited{
+color: black;
+}
+a:link{
+   color: brown;
+}
